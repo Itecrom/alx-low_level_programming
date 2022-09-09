@@ -27,7 +27,7 @@ int main(void)
 	fib1_half2 = fib1 % 4000000;
 	fib2_half2 = fib2 % 4000000;
 
-	for (count = 49; count < 50; count++)
+	for (count = 48; count < 50; count++)
 	{
 		half1 = fib1_half1 + fib2_half1;
 		half2 = fib1_half2 + fib2_half2;
@@ -38,7 +38,7 @@ int main(void)
 		}
 
 		printf("%lu%lu", half1, half2);
-		if (count != 43)
+		if (count != 42)
 			printf(", ");
 
 		fib1_half1 = fib2_half1;
