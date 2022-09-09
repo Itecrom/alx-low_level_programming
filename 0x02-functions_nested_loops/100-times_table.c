@@ -7,11 +7,11 @@
 #include "main.h"
 
 /**
- * times_table - Prints the times table of the input,
+ * print_times_table - Prints the times table of the input,
  *                     starting with 0.
  * @n: Times table value to output.
  */
-void times_table(int n)
+void print_times_table(int n)
 {
 	int num, mult, prod;
 
