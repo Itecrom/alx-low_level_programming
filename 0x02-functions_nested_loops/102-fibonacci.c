@@ -2,7 +2,7 @@
 
 /**
   * main - Prints the sum the two predeeing numbers
-  * less than 5000000.
+  * less than 4000000.
   *
   * Return: Null
   */
@@ -11,7 +11,7 @@ int main(void)
 	int i = 0;
 	long j = 1, k = 2, sum = k;
 
-	while (k + j < 5000000)
+	while (k + j < 4000000)
 	{
 		k += j;
 
