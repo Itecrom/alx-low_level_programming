@@ -38,7 +38,7 @@ int main(void)
 		}
 
 		printf("%lu%lu", half1, half2);
-		if (count != 42)
+		if (count != 43)
 			printf(", ");
 
 		fib1_half1 = fib2_half1;
