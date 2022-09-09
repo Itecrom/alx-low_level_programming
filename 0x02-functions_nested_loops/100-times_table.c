@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
-  * times_table - Prints a multiplication table
+  * print_times_table - Prints a multiplication table
   * @n: Number is here
   *
   * Return: Matrices
   */
-void times_table(int n)
+void print_times_table(int n)
 {
 	int x, y, z;
 
