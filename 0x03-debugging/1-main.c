@@ -13,11 +13,6 @@ int main(void)
 
 	i = 0;
 
-	/*while (i < 10)*/
-	/*{*/
-	/*putchar(i);*/
-	/*}*/
-
 	printf("nUending iteration broked \\o/\n");
 
 	return (0);
