@@ -1,5 +1,5 @@
 /**
- * _atoi - converts a string to an integer
+ * _atoi - converts a str to an integer
  *
  * @s: string input parameter
  *
