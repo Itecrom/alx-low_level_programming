@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * _strdup - Returns a pointer to a newly-allocated space in memory
+ * _strdup - Returns pointer to a newly-allocated space in memory
  *           containing a copy of the string given as parameter.
  * @str: The string to be copied.
  *
